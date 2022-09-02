@@ -28,8 +28,8 @@
 | Cairo | The City of Six Carriages | Deliver 1400 passengers using no more than one carriage per line | Nov 4 |
 | Istanbul | Marmaray | Deliver 1500 passengers using no more than one tunnel | Nov 4 |
 | Shanghai | Shanglow? Shanghai! | Deliver 1200 passengers with at least one station connected to all lines | Nov 4 |
-| Guangzhou | City of Rams | Deliver 1500 passengers with tunnels on no more than one line | ?! |
+| Guangzhou | City of Rams | Deliver 1500 passengers with tunnels on no more than one line | Nov 7 |
 | Chongqing | Fog City | Deliver 1800 passengers using no more than one loop | Nov 4 |
 | Mumbai | Elaborate Dance Number | Reach week 9 | Nov 5 |
 | Lagos | Mainland to Island | Deliver 1200 passengers with tunnels on no more than one line | Nov 5 |
-| Auckland | Second Harbor Crossing | Deliver 1500 passengers using no more than two tunnels | ?! |
+| Auckland | Second Harbor Crossing | Deliver 1500 passengers using no more than two tunnels | Nov 8 |
